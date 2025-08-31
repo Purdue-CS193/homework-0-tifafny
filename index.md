@@ -1,7 +1,8 @@
-# Tiffany's First Github Homework
+# Tiffany Jiang's First Github Homework
 And here are some of my favorite things about CS193:
-- I get to practice outside of class
-
+- I get to practice outside of cs180 class
+- I get to meet new people who are interested in CS
+- I get to review some useful tools for CS
 
 
 ## Welcome to GitHub Pages

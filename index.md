@@ -1,5 +1,8 @@
 # Tiffany's First Github Homework
 And here are some of my favorite things about CS193:
+- I get to practice outside of class
+
+
 
 ## Welcome to GitHub Pages
 

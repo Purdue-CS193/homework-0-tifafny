@@ -1,8 +1,8 @@
 # Tiffany Jiang's First CS193 Homework
 my favorite things about CS193
-- I get to learn about new tools to utilize in cs180
-- I have the opportunity to meet like-minded individuals
-- I am able to practice the skills I've learned in cs180
+- I get to learn about new tools to utilize in cs180.
+- I have the opportunity to meet like-minded individuals.
+- I am able to practice the skills I've learned in cs180.
 
 ## Welcome to GitHub Pages
 
